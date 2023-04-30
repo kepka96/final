@@ -1,6 +1,7 @@
 header {
     background-image: linear-gradient(to right top,gold,blue);
     padding:15px;
+    font-family:Comic Sans MS;
 }
 
 h1 {
@@ -16,6 +17,7 @@ main img:hover {
 
 main {
     background-image:linear-gradient(to left,lightblue,white);
+    font-family:Comic Sans MS;
 }
 
 header a:hover {
@@ -28,4 +30,5 @@ header a:focus {
 
 footer {
     background-image:linear-gradient(to left,white,blue,yellow);
+    font-family:Comic Sans MS;
 }
