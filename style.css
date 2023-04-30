@@ -1,0 +1,31 @@
+header {
+    background-image: linear-gradient(to right top,gold,blue);
+    padding:15px;
+}
+
+h1 {
+    text-align:center;
+    color:blue;
+}
+
+main img:hover {
+    width:80px;
+    height:80px;
+    border:1px solid blue;
+}
+
+main {
+    background-image:linear-gradient(to left,lightblue,white);
+}
+
+header a:hover {
+    color:orange;
+}
+
+header a:focus {
+    color:gold;
+}
+
+footer {
+    background-image:linear-gradient(to left,white,blue,yellow);
+}
